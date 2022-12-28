@@ -1,26 +1,23 @@
 body{
-    background-color: rgb(88, 113, 88);
+    margin: 0;
+    background-color:rgb(105, 144, 105);
 }
-img{
+.column.side{
+    width: 50%;
     float: left;
-    margin-right: 100px;
-    margin-top: 0px;
-    width: 660px;
 }
 h1{
-    margin-top: 100px;
-    margin-right: 100px;
-    text-align: right;
-    font-size: 80px;
+    font-size: 60px;
+    text-align: left;
+    margin-left: 100px;
     color: white;
 }
 p{
-    margin-right: 200px;
-    text-align: right;
-    margin-top: 200px;
-    font-size: 30px;
+    text-align: justify;
+    font-size: 35px;
     color: white;
-    line-gap-override: 10px;
-    margin-bottom: 0px;
-}
 
+}
+img{ padding-top: 40px;
+
+}
