@@ -1,23 +1,39 @@
 body{
-    margin: 0;
-    background-color:rgb(105, 144, 105);
+    background-color: rgb(13, 30, 13);
+
+
 }
-.column.side{
-    width: 50%;
-    float: left;
+img{
+    float: right;
 }
 h1{
-    font-size: 60px;
-    text-align: left;
+    color: white;
     margin-left: 100px;
+    font-size: 100px;
+    margin-top: 0%;
+}
+P{
     color: white;
+    margin-left: 100px;
+    font-size: 40px;
+    margin-top: -50px;
 }
-p{
-    text-align: justify;
-    font-size: 35px;
+h2{
     color: white;
-
+    margin-top: 40px;
+    margin-left: 100px;
+    margin-top: 200px;
+    font-size: 150%;
 }
-img{ padding-top: 40px;
-
+h3{
+    background-color: yellow;
+    color: black;
+    font-size: small;
+    margin-left: 100px;
+    margin-top: 100px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 30px;
+    width:280px ;
 }
+
